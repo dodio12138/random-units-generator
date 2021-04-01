@@ -1,0 +1,33 @@
+{
+    "ideologies" : [
+        { "name":"Anarcho-Communism" , 
+		"name_zh":"无政府共产主义" ,
+		"stats": {
+            "econ": 10,
+            "dipl": 5,
+            "govt": 10,
+            "scty": 9
+        }
+	}, 
+        {
+		"name": "Libertarian Communism",
+		"name_zh": "自由共产主义",
+        "stats": {
+            "econ": 10,
+            "dipl": 7,
+            "govt": 8,
+            "scty": 8
+        }
+	},
+		{
+		"name": "Trotskyism",
+		"name_zh": "托洛茨基主义",
+		"stats": {
+				"econ": 10,
+				"dipl": 10,
+				"govt": 6,
+				"scty": 8
+        }
+    }
+    ]
+}
